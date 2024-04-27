@@ -1,0 +1,11 @@
+/* Media Queries para dispositivos móviles */
+@media only screen and (max-width: 768px) {
+}
+
+/* Media Queries para tablets */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+}
+
+/* Media Queries para pantallas de escritorio */
+@media only screen and (min-width: 1025px) {
+}
